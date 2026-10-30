@@ -1,0 +1,14 @@
+node_modules/
+dist/
+assets/
+build/
+releases/
+.bench-repos/
+.vscode-test/
+.reposqueeze/
+.reposqueeze-v2/
+.tools/
+*.log
+.DS_Store
+.env*
+docs/github-*.png
